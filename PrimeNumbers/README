@@ -1,0 +1,26 @@
+# Overview
+
+This software was created to check to see if there are any prime numbers in a list.
+
+This program is to demonstrate how to create classes, variables, expressions, conditionals, loops, data structure, and functions in Java.
+
+[Software Demo Video](https://youtu.be/KwgEFH90l1w)
+
+# Development Environment
+
+I used IntelliJ to help in the coding process of my program.
+
+I used Java in programming this software.
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+* [W3Schools](https://www.w3schools.com/)
+* [Codecademy](https://www.codecademy.com/)
+
+# Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+* Integrate more userablility
+* Learn how to ask for user input
+* Learn how to integrate user input into the code
